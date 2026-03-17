@@ -56,3 +56,5 @@ neondb.sql
 .rediscli_history
 
 .pm2/*
+
+src/firebase/firebase-service-account.ts
