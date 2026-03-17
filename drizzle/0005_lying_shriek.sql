@@ -1,0 +1,1 @@
+ALTER TABLE "users" ADD COLUMN "notification_frequency" varchar(20) DEFAULT 'batched' NOT NULL;

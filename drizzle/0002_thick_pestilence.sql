@@ -1,0 +1,1 @@
+ALTER TABLE "meetings" ALTER COLUMN "is_active" SET DEFAULT true;

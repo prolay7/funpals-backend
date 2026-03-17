@@ -1,0 +1,58 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build output
+dist/
+build/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime
+pids/
+*.pid
+*.seed
+
+# TypeScript
+*.tsbuildinfo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Uploads / temp files
+uploads/
+tmp/
+
+
+# Others
+FRENDORDEV_CODEBASE_DOCUMENTATION.md
+FrendorDev.postman_collection.json
+GAP_ANALYSIS_FRENDORDEV_VS_FUNPALS_API.md
+neondb.sql
+
+# bash
+*.sh
+.bash_logout
+.bash_history
+.bash_profile
+.bashrc
+
+
+.psql_history
+.rediscli_history
+
+.pm2/*

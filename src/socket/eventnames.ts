@@ -1,0 +1,25 @@
+export const SocketEvents = {
+    'CONNECTION':'connection',
+    'DISCONNECT':'disconnect',
+    'INCOMING_MEET_REQUEST':'incomingmewwtrequest',
+    'MEET_INVITE_RESPONCE_FROM_TARGET':'meetinviteresponcefromtarget',
+    'MEET_INVITE_DECLINED':'meetdeclined',
+    'MEET_INVITE_ACCEPTED':'meetaccepted',
+    'MEET_LINK_OR_TOKEN':'meetlinkortoken',
+    'SOMETHING_WENT_WRONG':'servererror',
+    'IMAGE_RECEIVED_FROM_FRIEND':'imagereceived',
+    'VERIFICATION_REPORT':'verification-report',
+    'MEET_LINK_GENERATED':'meetlinkgenerated',
+    'SEND_PRIVATE_MESSAGE':'sendprivatemessage',
+    'PRIVATE_MESSAGE_RECEIVED':'privatemessagereceived',
+    'PRESENCE_UPDATE':'presence::update',
+    'SYSTEM_NOTIFICATION':'systemnotification',
+    'JOIN_GROUP_ROOM':'joinGroupRoom',
+    'LEAVE_GROUP_ROOM':'leaveGroupRoom',
+    'GROUP_MESSAGE_RECEIVED':'groupMessageReceived',
+    'BROADCAST_GROUP_MESSAGE':'broadCastGroupMessage',
+    'INSTANT_MEETING':'instantMeeting',
+    'AVAILABILITY_UPDATE':'availabilityUpdate',
+}
+
+Object.freeze(SocketEvents);

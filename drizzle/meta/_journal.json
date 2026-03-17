@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1756465134007,
+      "tag": "0001_ambitious_ender_wiggin",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1756465560004,
+      "tag": "0001_brief_lady_mastermind",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1756761601761,
+      "tag": "0002_thick_pestilence",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1772475225822,
+      "tag": "0003_talented_the_hunter",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1772478406014,
+      "tag": "0004_rainy_steel_serpent",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1772478809560,
+      "tag": "0005_lying_shriek",
+      "breakpoints": true
+    }
+  ]
+}
