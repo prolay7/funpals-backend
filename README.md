@@ -79,7 +79,7 @@ CREATE EXTENSION IF NOT EXISTS postgis;
 
 ```bash
 # Clone and enter the directory
-cd FunpalsDev
+cd funpals-backend
 
 # Install all dependencies
 npm install
