@@ -45,7 +45,6 @@ GAP_ANALYSIS_FRENDORDEV_VS_FUNPALS_API.md
 neondb.sql
 
 # bash
-*.sh
 .bash_logout
 .bash_history
 .bash_profile
